@@ -6,7 +6,8 @@ import time
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('5748799991:AAGMrwwUlIVgR7pj5u5lRUuU2dWej25SskQ')
+# Внимание!!! Введите ключ доступа!
+bot = telebot.TeleBot('') # чтобы подключить бота, укажите токен
 
 # Создаем переменные, где будут храниться промежуточные данные
 # Заявка студента
