@@ -6,7 +6,7 @@ import time
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('5748799991:AAGMrwwUlIVgR7pj5u5lRUuU2dWej25SskQ')
+bot = telebot.TeleBot('') # укажите токен
 
 name = ''
 message_email = ''
